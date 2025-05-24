@@ -60,11 +60,12 @@ export function MethodologySection() {
 
           <div className="relative">
             <Image
-              src="/placeholder.svg?height=500&width=600"
+              src="/assets/banner/banner2.png"
               alt="Research Methodology Diagram"
               width={600}
               height={500}
               className="w-full h-auto rounded-xl border"
+              priority
             />
           </div>
         </div>

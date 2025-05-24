@@ -57,11 +57,12 @@ export function HeroSection() {
           <div className="relative">
             <div className="relative rounded-2xl overflow-hidden border bg-muted">
               <Image
-                src="/placeholder.svg?height=600&width=800"
+                src="/assets/banner/banner1.png"
                 alt="Smart City Research Visualization"
                 width={800}
                 height={600}
                 className="w-full h-auto"
+                priority
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent" />
             </div>

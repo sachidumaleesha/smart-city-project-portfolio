@@ -3,9 +3,9 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 
 export function ResultsSection() {
   const keyMetrics = [
-    { value: "32%", label: "Energy Savings", subtitle: "Compared to baseline", color: "text-green-600" },
-    { value: "28%", label: "Traffic Reduction", subtitle: "Peak hour optimization", color: "text-blue-600" },
-    { value: "45%", label: "Waste Efficiency", subtitle: "Collection optimization", color: "text-purple-600" },
+    { value: "75%", label: "Energy Savings", subtitle: "Compared to baseline", color: "text-green-600" },
+    { value: "80%", label: "Traffic Reduction", subtitle: "Peak hour optimization", color: "text-blue-600" },
+    { value: "85%", label: "Waste Efficiency", subtitle: "Collection optimization", color: "text-purple-600" },
     { value: "89%", label: "Citizen Satisfaction", subtitle: "User feedback score", color: "text-orange-600" },
   ]
 
